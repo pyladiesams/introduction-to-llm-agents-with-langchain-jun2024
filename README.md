@@ -1,5 +1,5 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# Introduction to LLM Agents with LangChain
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/watch?v=MjeRY7zNb44&list=PLTdYvc4hjao-4OPJ-thNEYfIcnW6tbPSv)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
