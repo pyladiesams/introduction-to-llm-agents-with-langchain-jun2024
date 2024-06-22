@@ -4,3 +4,4 @@ langchain_community
 wikipedia
 langchainhub
 pillow
+jupyter
