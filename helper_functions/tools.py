@@ -111,7 +111,7 @@ class ImageInput(BaseModel):
 
 # the tool description
 images_tool_description: str = (
-       "Genrate an image based on the input text and return its path"
+       "Generate an image based on the input text and return its path"
     )
 
 # fuse the function, input parameters and description into a tool. 
