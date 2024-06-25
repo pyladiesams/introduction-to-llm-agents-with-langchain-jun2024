@@ -2,7 +2,7 @@
 
 ### Level: Beginner
 
-### Presentation: [Slides](https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024/blob/master/workshop_instructions.pdf)
+### Presentation: [Slides](https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024/blob/master/workshop/workshop_instructions.pdf)
 
 ## Workshop description
 
