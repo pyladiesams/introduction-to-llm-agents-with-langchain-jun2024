@@ -17,7 +17,7 @@ With this notebook you will familiarize yourself with the key concepts of an LLM
 
 ## Setting up your environment
 
-- Clone the repository
+- Clone the repository with `git clone https://github.com/pyladiesams/introduction-to-llm-agents-with-langchain-jun2024`
 - Set up a virtual environment using `virtualenv`:
     - `pip install virtualenv`
     - Install environment: `python3 -m venv venv`
@@ -27,7 +27,7 @@ With this notebook you will familiarize yourself with the key concepts of an LLM
 
 ## API keys
 
-API keys can abe accessed via this [privatebin](https://privatebin.molops.io/?a6459e88fa282c28#DsFZvkZSiuPcNQzNXvmtvmTozihhaf1hQdqBCd7r3q5s). The password will be shared during the workshop. 
+API keys can abe accessed via this [privatebin](https://privatebin.molops.io/?d4232d4c16615a3e#JS4dcr5w2sqYgYRbChF4Bat1eZWmzkgSq5LZg7bJMvh). The password will be shared during the workshop. 
 
 Make sure to paste the API keys into the file `helper_functions/keys.py` before running the notebook. You are ready to go now!
 
